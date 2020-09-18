@@ -1,0 +1,53 @@
+.font {
+  font-family: "Oswald", sans-serif;
+}
+.figures {
+  font-family: "Abel", sans-serif;
+  /* font-family: 'Oswald', sans-serif; */
+}
+
+.img {
+  width: 160px;
+}
+
+.tc {
+  /* color: #F3B81C; */
+  color: #d32127;
+}
+.rc {
+  color: #6c923d;
+}
+.ac {
+  /* color: #F67428; */
+  color: #d32127;
+}
+.td {
+  color: #d32127;
+}
+
+.shadow {
+  box-shadow: 0 0.2rem 0.5rem rgba(255, 0, 0, 0.17) !important;
+}
+
+.bg-light {
+  background-color: #f8f9fa61 !important;
+}
+
+.badge {
+  width: 50%;
+  font-size: 18px;
+  padding: 12px;
+  color: rgba(255, 0, 0, 1);
+}
+.badge-theme {
+  background-color: rgba(255, 0, 0, 0.17);
+}
+.card-text {
+  font-size: 30px;
+}
+
+.table .thead-light th {
+    color: #495057;
+    background-color: #fafbfd;
+    border-color: #dee2e6;
+}
